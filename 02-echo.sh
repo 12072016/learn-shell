@@ -11,4 +11,5 @@ echo Hellow World
 ### \e[0m - to disable the color. (once we enable the color we have to disable that, else color follows to next
 lines asweel.
 
-examle print it in red color: echo -e "\e[32mRED color\e[0m"
+examle print it in red color:
+echo -e "\e[32mRED color\e[0m"
