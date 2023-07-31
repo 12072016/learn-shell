@@ -9,8 +9,10 @@ name=devops
 a=10
 name=devops
 
-echo today date is ${DATE}
+
 DATE=${date +%F}
+echo today date is ${DATE}
+
 
 
 
