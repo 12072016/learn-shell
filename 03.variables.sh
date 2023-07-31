@@ -9,7 +9,7 @@ name=devops
 a=10
 name=devops
 
-
+#DATE=2023-04-18
 DATE=${date +%F}
 echo today date is ${DATE}
 
