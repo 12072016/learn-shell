@@ -9,7 +9,7 @@ name=devops
 a=10
 name=devops
 
-echo today data is ${date}
+echo today data is ${DATE}
 date=${date+%F}
 
 
