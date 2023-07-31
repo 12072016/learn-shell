@@ -10,3 +10,6 @@ a=10
 name=devops
 date=2023-04-18
 echo today data is ${date}
+date=${date+%F}
+
+
