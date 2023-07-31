@@ -8,10 +8,16 @@ name=devops
 
 a=10
 name=devops
-
+COMMAND SUBSTITUTION:
 #DATE=2023-04-18
 DATE=$(date +%F)
 echo today date is ${DATE}
+ARTHMETIC SUBSTITUTION
+
+#ex
+
+ARTH=$((2(3*4/2)))
+ARTH=$((ARTH))
 
 
 
