@@ -13,3 +13,4 @@ echo today data is ${DATE}
 DATE=${date +%F}
 
 
+
