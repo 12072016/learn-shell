@@ -10,6 +10,6 @@ a=10
 name=devops
 
 echo today data is ${DATE}
-date=${date+%F}
+date=${date +%F}
 
 
