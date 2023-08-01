@@ -16,9 +16,15 @@ ARTHMETIC SUBSTITUTION
 
 #ex
 
-ARTH=$((2(3*4/2)))
-ARTH=$((ARTH))
+ARTH=$((2-3*4/2))
+ECHO ARTH=${ARTH}
 
+## special variables for inputs:
 
+echo Script name - $0
+echo First Argument -$1
+echo Second Argument -$2
+echo All Argument -$*
+echo No of  Argument -$#
 
 
