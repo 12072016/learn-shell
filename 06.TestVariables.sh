@@ -12,16 +12,16 @@ echo "${person1}: good morning, ${person2}!!!"
 
 ## argumentpASS
 
-person1=$1
-person2=$2
+#person1=$1
+#person2=$2
 
 
 
 
-sh 06.testVariables.sh $1 $2 $3
-echo "${person1}: Hi, ${person2}"
-echo "${person2}: Hellow, ${person1}"
-echo "${person1}: good morning, ${person2}!!!"
+#sh 06.testVariables.sh $1 $2 $3
+#echo "${person1}: Hi, ${person2}"
+#echo "${person2}: Hellow, ${person1}"
+#echo "${person1}: good morning, ${person2}!!!"
 
 ### how to ecute command inside the shell script and get output from variable?
 
