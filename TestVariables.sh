@@ -5,5 +5,11 @@ echo "Hellow World"
 ##Variables:
 #!/bin/bash
 
-person=ram
+person1=kiran
+person2=keerthi
 echo "hellow ${person}"
+
+echo "kiran: Hi, Keerthi"
+echo"keerthi: Hellow, kiran"
+echo "kiran: good morning, keerthi!!!"
+
