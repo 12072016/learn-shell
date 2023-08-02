@@ -2,7 +2,7 @@
 #!/bin/bash
 echo "Hellow World"
 
-Variables:
+##Variables:
 #!/bin/bash
 
 person=ram
