@@ -23,4 +23,8 @@ echo "${person1}: Hi, ${person2}"
 echo "${person2}: Hellow, ${person1}"
 echo "${person1}: good morning, ${person2}!!!"
 
+### how to ecute command inside the shell script and get output from variable?
 
+#!/bin/bash
+DATE:$(date)
+echo " Script started executing at: ${DATE} "
