@@ -10,7 +10,11 @@ echo name =${name}
 DATE=2023-08-03
 echo today date is =${DATE}
 
+#### %F
 
+DATE=${date +%F}
+
+echo today date is =${DATE}
 
 
 
