@@ -15,7 +15,9 @@ echo today date is =${DATE}
 DATE=$(date +%F)
 
 echo today date is =${DATE}
+ARTH =$((2-3*4/2))
 
+echo ARTH=${ARTH}
 
 
 
