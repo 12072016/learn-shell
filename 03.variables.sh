@@ -19,5 +19,19 @@ ARTH =$((2-3*4/2))
 
 echo ARTH=${ARTH}
 
+### special variables for inputs####
+
+echo Script Name - $0
+echo First Argument -$1
+echo Second Argument -$2
+echo All Argument -$*
+echo No of Argument -$#
+
+  ;;
+esac
+
+
+
+
 
 
