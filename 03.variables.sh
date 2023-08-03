@@ -12,7 +12,7 @@ echo today date is =${DATE}
 
 #### %F
 
-DATE=${date +%F}
+DATE=$(date +%F)
 
 echo today date is =${DATE}
 
