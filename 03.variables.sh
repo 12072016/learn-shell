@@ -1,4 +1,4 @@
-if we assign to a name for set of data called variable;
+####if we assign to a name for set of data called variable;
 a=10
 
 name=devops
