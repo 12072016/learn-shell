@@ -2,6 +2,11 @@
 person_name=ramesh
 age=30
 
+if [ -z "$person_name" ];then
+  echo Input Missing
+  exit
+fi
+
 if  [ "$person_name" == "kiran" ]
 then
   echo kiran age - $age
