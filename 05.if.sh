@@ -1,4 +1,4 @@
-person_name =kiran
+person_name=kiran
 age=30
 
 if  [ $person_name == "kiran" ]
