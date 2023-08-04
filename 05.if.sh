@@ -8,3 +8,11 @@ then
   else
     echo person not matching
   fi
+
+
+  if  [ "age"  -gt 35 ];
+  then
+    echo kiran age - 25
+    else
+      echo kiran age - 30
+      fi
