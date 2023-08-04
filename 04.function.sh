@@ -8,10 +8,10 @@ function_name
 
 ## we can send inputs to the function and we can access them with special variables $1-$n, $*, $#
 
-function_name () {
+function_name1 () {
   echo first argument=$1
   echo second argument =$2
    echo all argument =$*
    echo No of argument =$#
     }
-
+function_name 123 zxz
