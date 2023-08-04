@@ -14,4 +14,4 @@ function_name1 () {
    echo all argument =$*
    echo No of argument =$#
     }
-function_name 123 zxz
+function_name1 123 zxz
