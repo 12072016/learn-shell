@@ -15,4 +15,3 @@ function_name () {
    echo No of argument =$#
     }
 
-    function_name1 123 xyz
