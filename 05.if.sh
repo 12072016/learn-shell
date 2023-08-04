@@ -3,5 +3,5 @@ age=30
 
 if  [ $person_name == "kiran" ]
 then
-  echo kiran age - $ age
+  echo kiran age - $age
   fi
